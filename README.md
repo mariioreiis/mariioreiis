@@ -18,9 +18,9 @@ Me chamo Mario Reis, natural da melhor cidade do universo Niterói! Sou formado 
 
 
 ## 📚 Estudando no momento
-
+<div align="center">
 <img alt="JavaScript" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="Cypress" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg" />
+<img alt="Cypress" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cypress.svg" /></div>
 
 ### 😄 Minhas informações no Github!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariioreiis&show_icons=true&theme=radical)
