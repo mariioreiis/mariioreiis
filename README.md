@@ -29,4 +29,4 @@ Me chamo Mario Reis, natural da melhor cidade do universo Niterói! Sou formado 
 
 [![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mario.reis.92/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mario-reis-6273a1104/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=pink)](https://www.instagram.com/mario_rreis/)
+[!(https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=pink)](https://www.instagram.com/mario_rreis/)
